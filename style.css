@@ -1,0 +1,95 @@
+@import "bootstrap.css";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Nunito:wght@300&family=Work+Sans:wght@200&display=swap')
+
+
+
+body {
+	font-family: 'Work Sans', sans-serif;
+	color: #5f6368;
+	font-size: 13px;
+}
+
+
+h1, h2, h3, h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+
+}
+
+
+.event {
+	width: 32px;
+	height: 32px;
+	border-radius: 2px;
+	padding: 3px;
+
+}
+
+.jumbotron-hero {
+  background-image: url("https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+  background-position: center;
+  background-size: cover;
+  height: 500px;
+}
+
+
+.button-hero {
+	background-color: #f20089;
+	border-radius: 10px;
+	text-decoration: none;
+	height: 20px;
+	color: white;
+	border: none;
+}
+
+a {
+	text-decoration: underline;
+	color: #b100e8;
+}
+
+
+
+
+.bg-primary {
+  background-color: #f20089 !important;
+}
+
+.bg-secundary {
+  background-color: #2d00f7 !important;
+}
+
+
+.bg-success {
+  background-color: #74e8d4 !important;
+}
+
+
+.bg-warning {
+  background-color: #ef8354 !important;
+}
+
+
+.bg-danger {
+  background-color: #ff595e !important;
+}
+
+
+
+footer {
+	background: #74e8d4;
+	color: #ffffff;
+	position: absolute;
+	bottom: 0;
+	font-size: 14px;
+	text-align: center;
+	width: 100%;
+	line-height: 60px;
+	height:50px;
+
+
+}
+
+
+
+
