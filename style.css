@@ -87,7 +87,7 @@ footer {
 	line-height: 60px;
 	height:50px;
 	left: 0;
-	text-align: center;
+	justify-content:center;
 }
 
 
